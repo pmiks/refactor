@@ -1,6 +1,6 @@
 function func( s , a , b ) {
     if ( s.match (/^$/)) {
-        return -2 ;
+        return -1 ;
     }
     var i = s. length - 1 ;
     var aIndex = - 1 ;

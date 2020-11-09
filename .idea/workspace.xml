@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52751734-3c20-4077-9e32-ecd113d60d02" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jjLdVgBdASZxjr2IbZp7ywb3lW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52751734-3c20-4077-9e32-ecd113d60d02" name="Default Changelist" comment="" />
+      <created>1604312642076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604312642076</updated>
+      <workItem from="1604312643274" duration="1699000" />
+      <workItem from="1604314386576" duration="1785000" />
+      <workItem from="1604316201658" duration="2226000" />
+      <workItem from="1604318460252" duration="1787000" />
+      <workItem from="1604320296651" duration="1784000" />
+      <workItem from="1604329424005" duration="1221000" />
+      <workItem from="1604333940854" duration="597000" />
+      <workItem from="1604335736928" duration="1441000" />
+      <workItem from="1604340754810" duration="607000" />
+      <workItem from="1604343267391" duration="813000" />
+      <workItem from="1604346732547" duration="1325000" />
+      <workItem from="1604391161529" duration="581000" />
+      <workItem from="1604392982058" duration="599000" />
+      <workItem from="1604394837519" duration="586000" />
+      <workItem from="1604396636781" duration="580000" />
+      <workItem from="1604398475288" duration="584000" />
+      <workItem from="1604402036845" duration="626000" />
+      <workItem from="1604403850540" duration="580000" />
+      <workItem from="1604405912211" duration="671000" />
+      <workItem from="1604407772693" duration="574000" />
+      <workItem from="1604409667980" duration="591000" />
+      <workItem from="1604411589934" duration="585000" />
+      <workItem from="1604413436317" duration="595000" />
+      <workItem from="1604415382233" duration="578000" />
+      <workItem from="1604417195843" duration="594000" />
+      <workItem from="1604419095427" duration="581000" />
+      <workItem from="1604420918229" duration="1197000" />
+      <workItem from="1604426437909" duration="599000" />
+      <workItem from="1604428259140" duration="625000" />
+      <workItem from="1604430070389" duration="588000" />
+      <workItem from="1604431888545" duration="634000" />
+      <workItem from="1604433722605" duration="599000" />
+      <workItem from="1604435555490" duration="5000" />
+      <workItem from="1604938732344" duration="1286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="782" y="295" key="FileChooserDialogImpl" timestamp="1604330095087">
+      <screen x="84" y="0" width="1836" height="1080" />
+    </state>
+    <state x="782" y="295" key="FileChooserDialogImpl/84.0.1836.1080/-1280.0.1280.984@84.0.1836.1080" timestamp="1604330095087" />
+    <state x="665" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1604316659918">
+      <screen x="84" y="0" width="1836" height="1080" />
+    </state>
+    <state x="665" y="235" width="672" height="678" key="search.everywhere.popup/84.0.1836.1080/-1280.0.1280.984@84.0.1836.1080" timestamp="1604316659918" />
+  </component>
+</project>
