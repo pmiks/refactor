@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52751734-3c20-4077-9e32-ecd113d60d02" name="Default Changelist" comment="" />
+    <list default="true" id="52751734-3c20-4077-9e32-ecd113d60d02" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functionRefactored.js" beforeDir="false" afterPath="$PROJECT_DIR$/functionRefactored.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +77,7 @@
       <workItem from="1604433722605" duration="599000" />
       <workItem from="1604435555490" duration="5000" />
       <workItem from="1604938732344" duration="1286000" />
-      <workItem from="1604940043787" duration="217000" />
+      <workItem from="1604940043787" duration="325000" />
     </task>
     <servers />
   </component>

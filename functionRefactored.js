@@ -1,5 +1,5 @@
 function funcR( s , a , b ) {
-    if (!s.length) return - 2 ;
+    if (!s.length) return - 1 ;
     let i = s.length ;
     let aIndex = bIndex = -1;
     while ((aIndex == - 1) && (bIndex == - 1) && (--i > 0)) {
